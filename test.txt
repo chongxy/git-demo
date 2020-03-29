@@ -1,3 +1,4 @@
 1. git meager
 2. rebase
 4. add
+5. test
